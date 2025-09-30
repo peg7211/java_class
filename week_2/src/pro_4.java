@@ -17,7 +17,6 @@ public class pro_4 {
             catch (InputMismatchException e) {
                 System.out.println("실수는 입력하면 안됩니다.");
                 sc.nextLine();
-                continue;
             }
         } while(true);
 

@@ -9,7 +9,7 @@ public class pro_5 {
     }
 
     public static void main(String[] args) {
-        String choice[] = {"가위", "바위", "보"};
+        String []choice = {"가위", "바위", "보"};
 
         Scanner sc = new Scanner(System.in);
         System.out.println("컴퓨터와 가위 바위 보 게임을 합니다.");
